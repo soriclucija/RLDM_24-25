@@ -5,8 +5,9 @@ This project investigates how exam stress affects perceptual decision-making usi
 
 ## 📁 Project Structure
 
-- `DDM_Example.R` – Demonstrates fitting the DDM to sample data.
-- `Fit_analysis.R` – Main script for model fitting and extracting parameters.
+- `dataset18.csv` – Main dataset containing reaction times, accuracy, and condition labels.
+- `DDM_Example.R` – Generates an example of a DDM trajectory graph based on one trial.
+- `Fit_analysis.R` – Main script for model fitting and extracting DDM parameters.
 - `Frequency_Plot.R` – Generates histogram visualizations of reaction times.
 - `helper_functions.R` – Contains utility functions used across scripts.
 - `README.md` – This file.
