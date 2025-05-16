@@ -10,4 +10,6 @@ This project investigates how exam stress affects perceptual decision-making usi
 - `Fit_analysis.R` – Main script for model fitting and extracting DDM parameters.
 - `Frequency_Plot.R` – Generates histogram visualizations of reaction times.
 - `helper_functions.R` – Contains utility functions used across scripts.
+- `DDM_Poster.pdf` - Displays the final poster presented during class.
 - `README.md` – This file.
+
