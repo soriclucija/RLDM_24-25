@@ -3,7 +3,7 @@ This is a repository of my work for the course "Reinforcement Learning and Decis
 
 This project investigates how exam stress affects perceptual decision-making using the random dot motion task. Behavioral and computational analyses (via the Drift Diffusion Model) were conducted to compare performance under stress and no-stress conditions. The data used in the assignment is not real.
 
-## 📁 Project Structure
+## Project Structure
 
 - `dataset18.csv` – Main dataset containing reaction times, accuracy, and condition labels.
 - `DDM_Example.R` – Generates an example of a DDM trajectory graph based on one trial.
